@@ -1,3 +1,4 @@
-theme: jekyll-theme-midnight
-title: Regene's homepage
-description: Bookmark this to keep an eye on my project updates!
+theme: jekyll-theme-midnight@v0.2.0
+title: Regene's Portfolio
+tagline: Curious about Data, Driven by Questions. Learning through Analysis
+description: Welcome to my portfolio! I am an Applied Mathematics graduate exploring the world of data analytics and data science. Here, I share projects where I apply my knowledge to explore real-world and academic datasets.
